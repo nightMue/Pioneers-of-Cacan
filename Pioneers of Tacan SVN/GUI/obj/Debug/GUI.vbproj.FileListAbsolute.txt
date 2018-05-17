@@ -1,0 +1,93 @@
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Pioneers of Tacan SVN\GUI\bin\Debug\Pioneers of Tacan.exe.config
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Pioneers of Tacan SVN\GUI\bin\Debug\Pioneers of Tacan.exe
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Pioneers of Tacan SVN\GUI\bin\Debug\Pioneers of Tacan.pdb
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Pioneers of Tacan SVN\GUI\bin\Debug\Pioneers of Tacan.xml
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Pioneers of Tacan SVN\GUI\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.ChatForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.BoardForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.ControlForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.GameMenuForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.Resources.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.ParentForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.StartForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Pioneers of Tacan SVN\GUI\obj\Debug\GUI.vbproj.GenerateResource.Cache
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers of Tacan.exe
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers of Tacan.xml
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers of Tacan.pdb
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.ServerGUI.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.ConnectForm.resources
+J:\Pioneers of Tacan SVN\GUI\bin\Debug\Pioneers of Tacan.exe.config
+J:\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers of Tacan.exe
+J:\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers of Tacan.xml
+J:\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers of Tacan.pdb
+J:\Pioneers of Tacan SVN\GUI\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+J:\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.BuyForm.resources
+J:\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.ChatForm.resources
+J:\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.BoardForm.resources
+J:\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.ConnectForm.resources
+J:\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.ControlForm.resources
+J:\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.GameMenuForm.resources
+J:\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.Resources.resources
+J:\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.ParentForm.resources
+J:\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.ServerGUI.resources
+J:\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.StartForm.resources
+J:\Pioneers of Tacan SVN\GUI\obj\Debug\GUI.vbproj.GenerateResource.Cache
+J:\Pioneers of Tacan SVN\GUI\bin\Debug\Pioneers of Tacan.exe
+J:\Pioneers of Tacan SVN\GUI\bin\Debug\Pioneers of Tacan.pdb
+J:\Pioneers of Tacan SVN\GUI\bin\Debug\Pioneers of Tacan.xml
+J:\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.DeckForm.resources
+J:\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.UseCard.resources
+J:\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.DiscoveryPlayForm.resources
+J:\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.MonopolyPlayForm.resources
+J:\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.TradeProposalWithPlayerForm.resources
+J:\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.TradeProposalWithBankForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\New Project\Pioneers of Tacan SVN\GUI\bin\Debug\Pioneers of Tacan.exe.config
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\New Project\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers of Tacan.exe
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\New Project\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers of Tacan.xml
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\New Project\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers of Tacan.pdb
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\New Project\Pioneers of Tacan SVN\GUI\bin\Debug\Pioneers of Tacan.exe
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\New Project\Pioneers of Tacan SVN\GUI\bin\Debug\Pioneers of Tacan.pdb
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\New Project\Pioneers of Tacan SVN\GUI\bin\Debug\Pioneers of Tacan.xml
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\New Project\Pioneers of Tacan SVN\GUI\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\New Project\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.BuyForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\New Project\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.ChatForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\New Project\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.BoardForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\New Project\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.ConnectForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\New Project\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.ControlForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\New Project\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.DeckForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\New Project\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.DiscoveryPlayForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\New Project\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.GameMenuForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\New Project\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.MonopolyPlayForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\New Project\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.Resources.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\New Project\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.ParentForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\New Project\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.ServerGUI.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\New Project\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.StartForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\New Project\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.TradeProposalWithBankForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\New Project\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.TradeProposalWithPlayerForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\New Project\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.UseCard.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\New Project\Pioneers of Tacan SVN\GUI\obj\Debug\GUI.vbproj.GenerateResource.Cache
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Final Submission\Pioneers of Tacan SVN\GUI\bin\Debug\Pioneers of Tacan.exe.config
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Final Submission\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers of Tacan.exe
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Final Submission\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers of Tacan.xml
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Final Submission\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers of Tacan.pdb
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Final Submission\Pioneers of Tacan SVN\GUI\bin\Debug\Pioneers of Tacan.exe
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Final Submission\Pioneers of Tacan SVN\GUI\bin\Debug\Pioneers of Tacan.pdb
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Final Submission\Pioneers of Tacan SVN\GUI\bin\Debug\Pioneers of Tacan.xml
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Final Submission\Pioneers of Tacan SVN\GUI\obj\Debug\GUI.vbprojResolveAssemblyReference.cache
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Final Submission\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.BuyForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Final Submission\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.ChatForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Final Submission\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.BoardForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Final Submission\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.ConnectForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Final Submission\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.ControlForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Final Submission\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.DeckForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Final Submission\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.DiscoveryPlayForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Final Submission\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.GameMenuForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Final Submission\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.MonopolyPlayForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Final Submission\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.Resources.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Final Submission\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.ParentForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Final Submission\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.ServerGUI.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Final Submission\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.StartForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Final Submission\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.TradeProposalWithBankForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Final Submission\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.TradeProposalWithPlayerForm.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Final Submission\Pioneers of Tacan SVN\GUI\obj\Debug\Pioneers_of_Tacan.UseCard.resources
+K:\Courses\CSSE\yangq\cs3340\gie_hub_mcc_mue\Final Submission\Pioneers of Tacan SVN\GUI\obj\Debug\GUI.vbproj.GenerateResource.Cache

@@ -1,0 +1,263 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{C32D7D0A-1B7A-408D-93CF-EA5B93087FFF}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Pioneers_of_Tacan.StartForm</StartupObject>
+    <RootNamespace>Pioneers_of_Tacan</RootNamespace>
+    <AssemblyName>Pioneers of Tacan</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsFormsWithCustomSubMain</MyType>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Pioneers of Tacan.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Pioneers of Tacan.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BoardPoint.vb" />
+    <Compile Include="BuyForm.Designer.vb">
+      <DependentUpon>BuyForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BuyForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChatForm.Designer.vb">
+      <DependentUpon>ChatForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ChatForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BoardForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BoardForm.Designer.vb">
+      <DependentUpon>BoardForm.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConnectForm.Designer.vb">
+      <DependentUpon>ConnectForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ConnectForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ControlForm.Designer.vb">
+      <DependentUpon>ControlForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ControlForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeckForm.Designer.vb">
+      <DependentUpon>DeckForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DeckForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DevelopmentCard.vb" />
+    <Compile Include="DiscoveryPlayForm.Designer.vb">
+      <DependentUpon>DiscoveryPlayForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="DiscoveryPlayForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameBoard.vb" />
+    <Compile Include="GameMenuForm.Designer.vb">
+      <DependentUpon>GameMenuForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="GameMenuForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HexTile.vb" />
+    <Compile Include="mainClass.vb" />
+    <Compile Include="MonopolyPlayForm.Designer.vb">
+      <DependentUpon>MonopolyPlayForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MonopolyPlayForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Intersect.vb" />
+    <Compile Include="ParentForm.Designer.vb">
+      <DependentUpon>ParentForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ParentForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Player.vb" />
+    <Compile Include="ServerGUI.Designer.vb">
+      <DependentUpon>ServerGUI.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ServerGUI.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ServerIO.vb" />
+    <Compile Include="StartForm.Designer.vb">
+      <DependentUpon>StartForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="StartForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TradeProposalWithBankForm.Designer.vb">
+      <DependentUpon>TradeProposalWithBankForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TradeProposalWithBankForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TradeProposalWithPlayerForm.Designer.vb">
+      <DependentUpon>TradeProposalWithPlayerForm.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TradeProposalWithPlayerForm.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UseCard.Designer.vb">
+      <DependentUpon>UseCard.vb</DependentUpon>
+    </Compile>
+    <Compile Include="UseCard.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="BuyForm.resx">
+      <DependentUpon>BuyForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChatForm.resx">
+      <DependentUpon>ChatForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BoardForm.resx">
+      <DependentUpon>BoardForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConnectForm.resx">
+      <DependentUpon>ConnectForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlForm.resx">
+      <DependentUpon>ControlForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeckForm.resx">
+      <DependentUpon>DeckForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DiscoveryPlayForm.resx">
+      <DependentUpon>DiscoveryPlayForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameMenuForm.resx">
+      <DependentUpon>GameMenuForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MonopolyPlayForm.resx">
+      <DependentUpon>MonopolyPlayForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ParentForm.resx">
+      <DependentUpon>ParentForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ServerGUI.resx">
+      <DependentUpon>ServerGUI.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StartForm.resx">
+      <DependentUpon>StartForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TradeProposalWithBankForm.resx">
+      <DependentUpon>TradeProposalWithBankForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TradeProposalWithPlayerForm.resx">
+      <DependentUpon>TradeProposalWithPlayerForm.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UseCard.resx">
+      <DependentUpon>UseCard.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\shitty background.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Card.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+</Project>
