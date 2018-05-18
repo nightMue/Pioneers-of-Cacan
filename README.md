@@ -1,4 +1,4 @@
-# Pioneers-of-Tacan
+# Pioneers-of-Cacan
 VB.Net Settlers of Tacan (UW-Platteville Project)
 
 <h1>Pioneers of Catan - Game Rules</h1>
