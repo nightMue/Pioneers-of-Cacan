@@ -1,6 +1,8 @@
 # Pioneers-of-Tacan
 VB.Net Settlers of Tacan (UW-Platteville Project)
 
+![](demo.gif)
+
 Pioneers of Catan - Game Rules
 
 Object of Game:
@@ -78,3 +80,7 @@ Largest Army:
 
 Game Done When:
 	- when a player has 10 or more VP when it is your turn
+
+## Contact Me
+- [LinkedIn - Nicholas Mueller](https://www.linkedin.com/in/nicholas-mueller-b12006b6/)
+- [Personal Site - Where I mess around with stuff](https://nightmue.github.io/)
