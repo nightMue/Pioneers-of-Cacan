@@ -1,13 +1,9 @@
 # Pioneers-of-Cacan
 VB.Net Settlers of Tacan (UW-Platteville Project)
 
-<<<<<<< HEAD
 ![](demo.gif)
 
-Pioneers of Catan - Game Rules
-=======
 <h1>Pioneers of Catan - Game Rules</h1>
->>>>>>> 72c50800f4794d6f3106e11169b8884be812fb6a
 
 <b>Object of Game:</b>
 <ul>
@@ -106,20 +102,11 @@ Pioneers of Catan - Game Rules
 	<li>another player can take this by getting a higher army count than the player holding it </li>
 </ul>
 
-<<<<<<< HEAD
-Largest Army:
-	- the player with largest army count of atleast 3 or more gets 2VP (largest army card)
-	- another player can take this by getting a higher army count than the player holding it 
-
-Game Done When:
-	- when a player has 10 or more VP when it is your turn
-
-## Contact Me
-- [LinkedIn - Nicholas Mueller](https://www.linkedin.com/in/nicholas-mueller-b12006b6/)
-- [Personal Site - Where I mess around with stuff](https://nightmue.github.io/)
-=======
 <b>Game Done When:</b>
 <ul>
 	<li>when a player has 10 or more VP when it is your turn</li>
 </ul>
->>>>>>> 72c50800f4794d6f3106e11169b8884be812fb6a
+
+## Contact Me
+- [LinkedIn - Nicholas Mueller](https://www.linkedin.com/in/nicholas-mueller-b12006b6/)
+- [Personal Site - Where I mess around with stuff](https://nightmue.github.io/)
